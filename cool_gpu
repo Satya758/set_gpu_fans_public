@@ -25,7 +25,7 @@
 # Suggested usage:
 #
 #    cd /opt/set-gpu-fans
-#    sudo tcsh
+#    sudo
 #    ./cool_gpu >& controller.log &
 #    tail -f controller.log
 #
